@@ -46,10 +46,6 @@ This tool is provided "as is" without any guarantees. Use at your own risk.
 ## Credits
 Tool skidded from [MajorGeeks](https://www.majorgeeks.com/content/page/take_full_ownership_of_files_folders.html).
 
-## **Bugs & features** 🧩
-- [Report bug](https://github.com/velimirpaleksic/portfolio/issues)
-- [Request Feature](https://github.com/velimirpaleksic/portfolio/issues)
-
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
 - VexSystems GitHub: [github.com/vexsystems](https://github.com/vexsystems).
